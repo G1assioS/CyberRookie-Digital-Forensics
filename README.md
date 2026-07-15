@@ -88,8 +88,6 @@ Lesson Notes and Lab:
 https://github.com/G1assioS/CyberRookie-Digital-Forensics/tree/main/01-foundations/03-hashing-and-integrity
 ```
 
-Replace `G1assioS` with the GitHub username or organization that owns the repository.
-
 
 ## Maintainer
 
